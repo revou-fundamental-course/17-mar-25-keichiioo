@@ -1,0 +1,45 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #ebeaff;
+}
+
+#main-title{
+    color: #2a2a68
+}
+
+#calculation{
+    color: #ebeaff
+
+}
+
+.container {
+    background: #2a2a68;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    margin: 20px
+}
+
+button {
+    padding: 10px 20px;
+    background: #f04f53;
+    color: #ebeaff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 10px
+}
+
+button:hover {
+    background: #9b3032;
+}
+
+input {
+    padding: 8px;
+    margin: 10px;
+    border: none;
+    border-radius: 50px;
+}
